@@ -18,7 +18,7 @@ I am working with React and have multiple projects to share and updated my portf
 
 * I have updated my GitHub profile with pinned repositories featuring my projects
 
-* I have deployed this website: https://janesferr.github.io/Portofolio-React/
+* I have deployed this website: https://myportfoliojane.herokuapp.com/Portofolio-React
 
 Using this instructions and video: [Create React App docs for deployment.]
 * (https://create-react-app.dev/docs/deployment/#github-pages)
